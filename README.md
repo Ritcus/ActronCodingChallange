@@ -6,6 +6,7 @@
 -Run the project from the Visual Studio.
 
 ###Projects Description###
+
 The project includes a single web api implementation with a HTTP Post request which takes an array of integers and returns a string after
 the calculation.
 
