@@ -1,7 +1,5 @@
 ﻿
 using ActronCodingChallange.Interfaces;
-using Microsoft.AspNetCore.Mvc;
-using System.Security.Cryptography;
 
 namespace ActronCodingChallange.Services
 {

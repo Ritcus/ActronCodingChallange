@@ -1,6 +1,5 @@
 ﻿
 using ActronCodingChallange.Interfaces;
-using ActronCodingChallange.Services;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ActronCodingChallange.Controllers
