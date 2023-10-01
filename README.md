@@ -5,7 +5,7 @@
 
 -Run the project from the Visual Studio.
 
-###Projects Description###
+###PROJECTS DESCRIPTION###
 
 This repository includes two projects 
 - a single web API implementation with an HTTP Post request that takes an array of integers and returns a string after
@@ -13,7 +13,7 @@ the calculation.
 
 - a test project which tests only the core logic of the calculation.
 
-Folder Structure:
+###FOLDER STRUCTURE###:
 
 1. ActronCodingChallange:
    
