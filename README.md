@@ -15,6 +15,8 @@ the calculation.
 
 Folder Structure:
 
+1. ActronCodingChallange:
+   
 -Program.cs: Middleware and pipeline for the web API, created by default projects, customized for enabling dependency injection for the RepositoryServices.
 
 -Interface: Methods to be implemented.
@@ -22,3 +24,8 @@ Folder Structure:
 -Services: An extra layer of abstraction.
 
 -Controllers: The main API of the project.
+
+
+2. ActronCodingChallangeTests:
+   
+- ServicesTests: Service layer test cases.
