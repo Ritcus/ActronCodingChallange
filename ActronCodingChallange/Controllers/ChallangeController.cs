@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace ActronCodingChallange.Controllers
 {
-    [Route("api/controller")]
+    [Route("api/[controller]")]
     [ApiController]
     public class ChallangeController : ControllerBase
     {
@@ -14,7 +14,7 @@ namespace ActronCodingChallange.Controllers
             _repository = repository;
         }
 
-        [HttpPost("calculateNumber")]
+        [HttpPost("calculateLargestNumber")]
         public async Task<IActionResult> CalculateLargestNumber([FromBody] int[] array)
         {
             if (array.Length == 0)
