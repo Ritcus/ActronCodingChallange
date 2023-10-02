@@ -13,7 +13,7 @@ and use this public API address to use the service:
 https://actroncodingapi.azurewebsites.net/api/Challange/calculateLargestNumber
 
 Note:
-- The API takes an array of integers with a minimum index of 1 and returns the result as a string.
+- The API takes an array of integers with a minimum index of 1 and returns the result as a string. Example: [10,223,78,90,99]
 - Recommended: To use POSTMAN. Use POST to send the data as a raw body in JSON.
 
 
